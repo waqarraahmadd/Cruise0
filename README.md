@@ -3,7 +3,7 @@
 **Auth0 Tenant Name**: Shared via email
 
 
-- Auth0 login integration
+- Auth0 login integration via email/password and google social
 - Blocking disposable emails via Pre-User Registration Action
 - Email verification via link
 - Custom login page with Cruise0 branding (logo + background)
