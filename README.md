@@ -27,7 +27,7 @@ source venv/bin/activate   # Mac/Linux
 pip install -r requirements.txt
 ```
 
-4. Configure `.env` with your Auth0 credentials. Should be able to get that from my account. Tenant shared above.
+4. Configure `.env` with my Auth0 credentials. Should be able to get that from my account. App name is Cruise0 and Tenant shared via email.
 
 5. Run the app:
 ```bash
