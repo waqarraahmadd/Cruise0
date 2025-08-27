@@ -1,4 +1,4 @@
-Cruise0 Auth0 PoC
+## Cruise0 Auth0 PoC
 
 **Auth0 Tenant Name**: Shared via email
 
