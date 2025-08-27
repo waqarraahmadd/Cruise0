@@ -7,6 +7,7 @@
 - Blocking disposable emails via Pre-User Registration Action
 - Email verification via link
 - Custom login page with Cruise0 branding (logo + background)
+- MFA for non-social only
 
 ## Setup & Run
 1. Clone the repo:
