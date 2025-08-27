@@ -21,12 +21,12 @@ python3 -m venv venv
 source venv/bin/activate   # Mac/Linux
 ```
 
-3. Install dependencies:
+3. Install dependencies (or via packages in UI if using Pycharm):
 ```bash
 pip install -r requirements.txt
 ```
 
-4. Configure `.env` with your Auth0 credentials (do not commit secrets).
+4. Configure `.env` with your Auth0 credentials. Should be able to get that from my account. Tenant shared above.
 
 5. Run the app:
 ```bash
@@ -36,6 +36,6 @@ python server.py
 6. Open browser at: `http://localhost:3000`
 
 ## Notes
-- Disposable emails are blocked on signup.  
+- Disposable emails are blocked on signup via disify API.  
 - Login page uses Cruise0 logo and background.  
 - Pre-User Registration Action handles disposable email validation.
